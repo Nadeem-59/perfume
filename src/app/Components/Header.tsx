@@ -47,9 +47,7 @@ if(clicked === false){
 
 <MdMenuOpen onClick={()=>handleMenu()} className={clicked? "menu-icon1":"menu-icon2"}/>
 
-    <Link href="/">
-<Image src="/image/mobile.png" className="Mobile-logo" width={100} height={100} alt="Logo"/>
-    </Link>
+  
  
     </>
   )
