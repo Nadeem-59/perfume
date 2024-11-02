@@ -5,7 +5,7 @@ const Hero = () => {
   
       <div className="main-container main-div">
       <div className="container">
-      <h1>"Sweeten your day with scent"</h1>
+      <h1>Sweeten your day with scent</h1>
       <p>Perfume is a liquid that gives people, things and rooms a good smell. </p>
   
       <div className="buttonDiv">
