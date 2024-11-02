@@ -209,9 +209,7 @@ margin: 0px auto 0px auto;
   display: none;
 }
 
-.Mobile{
-opacity: 1;
-}
+
 
 @media (max-width:800px) {
 
@@ -291,13 +289,6 @@ opacity: 1;
   display: block;
   rotate: 180deg;
 }
-
-
-.Mobile-logo{
-  display: block;
-}
-
-
  header .button3{
   display: none;
  }
@@ -327,15 +318,6 @@ height: 250px;
 margin-bottom: 0px;
 text-align: center;
  }
-
-
-.Mobile-logo{
-  position: fixed;
-  top:0px;
-  left: 5px;
-  z-index: 15;
-}
-
 
 .hideHeader{
   display: none;
@@ -510,9 +492,9 @@ input{
 
 
 footer{
-  height: 250px;
+  height: 200px;
   width: 100%;
-  background-color: purple;
+  background-color: sandy brown;
   position: static;
   bottom: 0px;
   display: flex;
@@ -536,7 +518,7 @@ footer ul li .Link:hover{
 
 }
 .copyright{
-  background-color: black;
+  background-color: skyblue;
   height: fit-content;
   padding: 10px;
   width: 100%;
@@ -548,7 +530,7 @@ footer ul li .Link:hover{
   text-align: center;
   width: 100%;
   margin: auto auto;
-  color:yellow;
+  color:black;
 }
 
 
