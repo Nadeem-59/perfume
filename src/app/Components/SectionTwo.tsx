@@ -11,7 +11,7 @@ const Section2 = () => {
 
 
     <div className="image1">
-      <Image src="/image/arabic.jpg" alt="images" width={490} height={495}></Image>
+      <Image src="/image/arabic.jpg" alt="images" width={400} height={300}></Image>
     </div>
 
 
@@ -19,7 +19,7 @@ const Section2 = () => {
     <div className="images4">
       <div>
       <Image src="/image/brown.jpg" alt="images" width={350} height={240}></Image>
-      <Image src="/image/white.jpg" alt="images" width={350} height={240}></Image>
+      <Image src="/image/white.jpg" alt="images" width={300} height={200}></Image>
       </div>
 
       <div>
