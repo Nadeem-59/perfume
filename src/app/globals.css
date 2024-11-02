@@ -488,7 +488,7 @@ input{
 footer{
   height: 200px;
   width: 100%;
-  background-color: sandy brown;
+  background-color: brown(400);
   position: static;
   bottom: 0px;
   display: flex;
