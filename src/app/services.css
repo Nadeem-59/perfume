@@ -1,9 +1,6 @@
 .services-container {
-<<<<<<< HEAD
+
     background-color:white;
-=======
-    background-color:#87F3F3;
->>>>>>> 692f159e6134144a4ecc1630c9bb5b0731ce9cfc
     color: black;
     padding: 40px 20px;
     text-align: center;
@@ -32,11 +29,8 @@
   }
 
   .service-item {
-<<<<<<< HEAD
+
     background-color:#B76E79;
-=======
-    background-color:rgb(143,80,202);
->>>>>>> 692f159e6134144a4ecc1630c9bb5b0731ce9cfc
     border-radius: 8px;
     padding: 20px;
     width: 250px;
