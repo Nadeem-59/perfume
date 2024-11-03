@@ -1,4 +1,4 @@
-"use client"
+
 
 import Image from "next/image"
 import Link from "next/link"
@@ -48,6 +48,7 @@ if(clicked === false){
 <MdMenuOpen onClick={()=>handleMenu()} className={clicked? "menu-icon1":"menu-icon2"}/>
 
    
+
  
     </>
   )

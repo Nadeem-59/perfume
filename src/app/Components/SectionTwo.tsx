@@ -11,7 +11,7 @@ const Section2 = () => {
     <div className="images4">
       <div>
       <Image src="/image/brown.jpg" alt="images" width={350} height={240}></Image>
-      <Image src="/image/white.jpg" alt="images" width={350} height={240}></Image>
+      <Image src="/image/white.jpg" alt="images" width={300} height={200}></Image>
       </div>
 
       <div>
