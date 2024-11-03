@@ -1,5 +1,5 @@
 .services-container {
-    background-color:rgb(90,177,157);
+    background-color:#87F3F3;
     color: black;
     padding: 40px 20px;
     text-align: center;
@@ -28,7 +28,7 @@
   }
 
   .service-item {
-    background-color:rgb(121,97,189);
+    background-color:rgb(143,80,202);
     border-radius: 8px;
     padding: 20px;
     width: 250px;
