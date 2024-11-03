@@ -488,7 +488,7 @@ input{
 footer{
   height: 200px;
   width: 100%;
-  background-color: brown(400);
+  background-color: #FDF5C9);
   position: static;
   bottom: 0px;
   display: flex;
@@ -541,7 +541,7 @@ footer ul li .Link:hover{
   color: rgb(5, 28, 235);
 }
 .insta{
-  color:red(500);
+  color:#e980a4;
 }
 .twiter{
   color:rgb(46, 181, 235);
