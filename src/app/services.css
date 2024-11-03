@@ -1,5 +1,5 @@
 .services-container {
-    background-color:hotpink;
+    background-color:white;
     color: black;
     padding: 40px 20px;
     text-align: center;
@@ -28,7 +28,7 @@
   }
 
   .service-item {
-    background-color:brown;
+    background-color:#B76E79;
     border-radius: 8px;
     padding: 20px;
     width: 250px;

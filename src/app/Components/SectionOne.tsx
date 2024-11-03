@@ -11,7 +11,7 @@ const SectionOne = () => {
     { src: "/image/greenbottle.jpg",perfumeName: "Paco rabanoo", price: "Price(28$)" },
     { src: "/image/blackper.jpg", perfumeName: "Calvien Kalien", price: "Price(53$)" },
     { src: "/image/perfumesssss.jpg", perfumeName: "Britni spears", price: "Price(36$)" },
-    
+    { src:"/image/arabic.jpg" ,perfumeName:"darham-2",price:"price(40$)"},
   ];
   
   return (

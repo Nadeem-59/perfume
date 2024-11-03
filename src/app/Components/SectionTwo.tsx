@@ -8,14 +8,6 @@ const Section2 = () => {
 
     <div className='SectionTwo'>
 
-
-
-    <div className="image1">
-      <Image src="/image/arabic.jpg" alt="images" width={490} height={495}></Image>
-    </div>
-
-
-
     <div className="images4">
       <div>
       <Image src="/image/brown.jpg" alt="images" width={350} height={240}></Image>

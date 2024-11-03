@@ -4,7 +4,7 @@
     height: calc(100vh - 100px);
     padding: 20px;
     text-align: center;
-    background-color:peachpuff;
+    background-color:plum;
   }
   
   h1 {
@@ -30,7 +30,7 @@
     line-height: 1.6;
     margin: 0 10px;
     max-width: 600px;
-    color: skyblue;
+    color: pink;
     text-shadow: 1px 1px 0px black;
   }
 
