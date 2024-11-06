@@ -1,6 +1,6 @@
 /* styles/contact.css */
 .contact-container {
-  background-color:rgb(255, 222, 173);
+  background-color:navajowhite;
     max-width: 1500px;
     margin: 0 auto;
     padding: 20px;
@@ -56,7 +56,7 @@
   }
   
   .contact-form button {
-    background-color: rgb(74, 48, 216);
+    background-color: rgb(223,99,28);
     color: black;
     border: none;
     padding: 10px 20px;
